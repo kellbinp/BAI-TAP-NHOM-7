@@ -1,9 +1,9 @@
 👤 Thông tin sinh viên
 Họ và tên: Trần Thế Hiển
 
-Mã số sinh viên: (Hiển tự điền MSSV của mình vào đây nha)
+Mã số sinh viên
 
-Lớp: (Hiển điền tên lớp vào đây nè)
+Lớp:
 
 Trường: Đại học Giao thông vận tải TP.HCM (UTH)
 
